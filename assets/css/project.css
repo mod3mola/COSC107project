@@ -1,0 +1,22 @@
+body {
+    background-image: url('../image/shoes.jpg');
+}
+header {
+    text-align: center;
+}
+.head {
+    color: blue;
+    font-size: 80px;
+    font-weight: 600;
+}
+h1 {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 300;
+    color: brown;
+}
+.countdown {
+    color: red;
+    font-size: 65px;
+    font-weight: 400;
+}
